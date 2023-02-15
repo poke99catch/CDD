@@ -1,0 +1,12 @@
+class Myclass
+{
+public void f1 (int i )
+{}
+public void f1 (long i )
+{}
+}
+?/static
+MyFirstJavaProgram.main();
+// non-static
+MyFirstJavaProgram obj = new MyFirstJavaProgram();
+obj.main();
